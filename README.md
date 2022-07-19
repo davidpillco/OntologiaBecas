@@ -8,3 +8,4 @@ Este vocabulario está siendo desarrollado en el contexto de becas UTPL.
 # Mantenimiento
 
 # Ejemplos
+Algunas [consultas](https://link-url-here.org) a realizar en un SPARQL endpoint de pruebas se han habilitado para ejemplificar su funcionamiento.
